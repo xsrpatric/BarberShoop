@@ -1,6 +1,6 @@
 <h1>Barber Shoop 💇‍♂️ </h1>  
 
-![flappy](https://user-images.githubusercontent.com/97797728/184505796-f3c7d9f0-de06-44a8-b945-21b837962c08.png)
+![Logo](https://user-images.githubusercontent.com/97797728/184506103-33b8afb7-0e8c-443b-9fe5-b632e1aaed11.jpg)
 
 <h2> 💻 Tecnologias utilizadas <h2>
 
